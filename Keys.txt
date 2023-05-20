@@ -1,4 +1,0 @@
-{
-"APCA-API-KEY-ID" : "ADKDKKFNHF....",
-"APCA-API-SECRET-KEY" : "5lc8SYlcqms....."
-}
